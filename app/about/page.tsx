@@ -8,7 +8,7 @@ export default async function Page() {
   return (
     <div>
       <h1>{data.title}</h1>
-      <p>{data.price}</p>
+      <p>{data.price} test</p>
     </div>
   )
 }
